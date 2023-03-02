@@ -1,0 +1,53 @@
+h1{
+    font-family: cursive;
+    font-size: 70px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    font-size: 12px;
+}
+div{
+    background-color: yellow;
+}
+div p{
+    font-size: 15px;
+}
+.advisory{
+    word-spacing: 10px;
+}
+h2{
+    color: rgb(67, 67, 139);
+}
+.fuss{
+    color: rgb(67, 67, 139) ;
+    font-size: 23px;
+}
+hr{
+    background-color: blue;
+    height: 1px;
+}
+span{
+    color: rgb(67, 67, 139) ;
+}
+span.green{
+    background-color: rgb(163, 226, 163);
+    color: black;
+    font-size:15px ;
+}
+span.big{
+    font-size: 20px;
+    padding-left: 20px;
+}
+span.left{
+    padding-left: 75px;
+}
+dd{
+    margin-top: 1px;
+}
+p.margin{
+    margin: 1px;
+}
+
